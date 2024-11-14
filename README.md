@@ -1,4 +1,4 @@
 # 👋 Hey, I'm Adithya!
+💭 Cybersecurity Enthusiast<br/>
 👩🏻‍💻 Computer Science Engineer sharing about my journey and learnings<br/>
 👩🏻‍🎓 Currently pursuing masters from Amrita Vishwa Vidyapeetham, Kollam<br/>
-💭 Currently learning about data analytics and [dataviz](https://pudding.cool/2018/08/pockets/)!<br/>
