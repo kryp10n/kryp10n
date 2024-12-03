@@ -8,6 +8,7 @@
 ## 🌐 Socials:
 <a href="https://www.instagram.com/xxx" target="_blank" style="text-decoration: none;">
     <img src="https://img.icons8.com/fluency/48/000000/instagram-new.png" alt="Instagram" width="40" height="40"/>
+    <label>Instagram</label>
 </a><br>
 <a href="https://www.linkedin.com/in/xxx" target="_blank" style="text-decoration: none;">
     <img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn" width="40" height="40"/>
