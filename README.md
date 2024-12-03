@@ -6,19 +6,16 @@
 
 
 ## 🌐 Socials:
-<a href="https://www.instagram.com/xxx" target="_blank" style="text-decoration: none;">
+<a href="https://www.instagram.com/kryp10n" target="_blank" style="text-decoration: none;">
     <img src="https://img.icons8.com/fluency/48/000000/instagram-new.png" alt="Instagram" width="40" height="40"/>
 </a>
-<a href="https://www.linkedin.com/in/xxx" target="_blank" style="text-decoration: none;">
+<a href="https://www.linkedin.com/in/adithya-a-944100200/" target="_blank" style="text-decoration: none;">
     <img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn" width="40" height="40"/>
 </a>
-<a href="https://github.com/xxx" target="_blank" style="text-decoration: none;">
-    <img src="https://img.icons8.com/ios-glyphs/48/000000/github.png" alt="GitHub" width="40" height="40"/>
-</a>
-<a href="https://www.threads.net/xxx" target="_blank" style="text-decoration: none;">
+<a href="https://www.threads.net/kryp10n" target="_blank" style="text-decoration: none;">
     <img src="https://img.icons8.com/pulsar-line/48/threads.png" alt="Threads" width="40" height="40"/>
 </a>
-<a href="https://x.com/xxx" target="_blank" style="text-decoration: none;">
+<a href="https://x.com/imkryp10n" target="_blank" style="text-decoration: none;">
     <img src="https://img.icons8.com/ios-filled/50/twitterx--v1.png" alt="X" width="40" height="40"/>
 </a>
  
