@@ -16,13 +16,10 @@
     <img src="https://img.icons8.com/ios-glyphs/48/000000/github.png" alt="GitHub" width="40" height="40"/>
 </a>
 <a href="https://www.threads.net/xxx" target="_blank" style="text-decoration: none;">
-    <img src="https://img.icons8.com/ios-filled/50/000000/threads.png" alt="Threads" width="40" height="40"/>
+    <img src="https://img.icons8.com/pulsar-line/48/threads.png" alt="Threads" width="40" height="40"/>
 </a>
 <a href="https://x.com/xxx" target="_blank" style="text-decoration: none;">
-    <img src="https://img.icons8.com/ios/50/x.png" alt="X" width="40" height="40"/>
-</a>
-<a href="https://tryhackme.com/p/xxx" target="_blank" style="text-decoration: none;">
-    <img src="https://img.icons8.com/ios-glyphs/50/000000/hacker.png" alt="TryHackMe" width="40" height="40"/>
+    <img src="https://img.icons8.com/ios-filled/50/twitterx--v1.png" alt="X" width="40" height="40"/>
 </a>
  
 
