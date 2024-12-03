@@ -6,15 +6,25 @@
 
 
 ## 🌐 Socials:
-<a href="https://www.instagram.com/i.pavanraja" target="_blank">
+<a href="https://www.instagram.com/xxx" target="_blank" style="text-decoration: none;">
     <img src="https://img.icons8.com/fluency/48/000000/instagram-new.png" alt="Instagram" width="40" height="40"/>
-  </a>
-  <a href="https://www.linkedin.com/in/pavan-raja-b7180a205" target="_blank">
+</a>
+<a href="https://www.linkedin.com/in/xxx" target="_blank" style="text-decoration: none;">
     <img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn" width="40" height="40"/>
-  </a>
-  <a href="https://github.com/ipavanraja-r" target="_blank">
+</a>
+<a href="https://github.com/xxx" target="_blank" style="text-decoration: none;">
     <img src="https://img.icons8.com/ios-glyphs/48/000000/github.png" alt="GitHub" width="40" height="40"/>
-  </a> 
+</a>
+<a href="https://www.threads.net/xxx" target="_blank" style="text-decoration: none;">
+    <img src="https://img.icons8.com/ios-filled/50/000000/threads.png" alt="Threads" width="40" height="40"/>
+</a>
+<a href="https://x.com/xxx" target="_blank" style="text-decoration: none;">
+    <img src="https://img.icons8.com/ios-glyphs/50/000000/x.png" alt="X" width="40" height="40"/>
+</a>
+<a href="https://tryhackme.com/p/xxx" target="_blank" style="text-decoration: none;">
+    <img src="https://img.icons8.com/ios-glyphs/50/000000/hacker.png" alt="TryHackMe" width="40" height="40"/>
+</a>
+ 
 
 # 💻 Tech Stack:
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
