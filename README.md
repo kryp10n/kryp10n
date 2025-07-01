@@ -1,7 +1,6 @@
-# 👋 Hey, I'm Kryp10n!
+# 👋 The names K... Kryp10n
 💭 Cybersecurity Enthusiast<br/>
-👩🏻‍💻 Computer Science Engineer sharing cool things<br/>
-👩🏻‍🎓 Currently pursuing masters in Cybersecurity<br/>
+👩🏻‍💻 Pursuing masters in Cybersecurity<br/>
 
 # 💻 Tech Stack:
 <h4>Languages: </h4>
