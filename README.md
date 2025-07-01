@@ -1,4 +1,4 @@
-# 👋 The names K... Kryp10n
+# 👋 The name's K... Kryp10n
 💭 Cybersecurity Enthusiast<br/>
 👩🏻‍💻 Pursuing masters in Cybersecurity<br/>
 
